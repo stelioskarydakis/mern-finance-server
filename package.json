@@ -7,8 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js",
-    "install-dependencies": "npm run install-client && npm install",
-    "setup-production": "npm run install-client && npm run build-client && npm install"
+    "install-dependencies": "npm install"
   },
   "keywords": [],
   "author": "",
